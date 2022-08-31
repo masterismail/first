@@ -3,4 +3,5 @@
 void main()
 {
 printf("this is my first");
+printf("this is my first");
 }
